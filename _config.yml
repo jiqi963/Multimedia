@@ -10,16 +10,16 @@
 
 
 # If you are building a GitHub project page then use these settings:
-url: "https://softenop.github.io/soften-portfolio-jiqi963.github.io/"
-baseurl: "/soften-portfolio-jiqi963.github.io"
+url: "https://jiqi963.github.io/Multimedia/"
+#baseurl: "/soften-portfolio-jiqi963.github.io"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: IOT Project
+title: Multimedia portfolio
 
 # Short description of your site
-description: This site is a Portfolio for IOT Project
+description: This site is a Portfolio for Multimedia
 
 # --- Navigation bar options --- #
 
