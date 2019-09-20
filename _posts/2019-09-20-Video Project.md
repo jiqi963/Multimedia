@@ -37,5 +37,5 @@ MotionTileEffect
 
 
 ScaleOrFlipALayeranBlur
-![Evidence 4](https://github.com/jiqi963/Multimedia/blob/master/img/video/ScaleOrFlipALayeranBlur.png?raw=true)
+![Evidence 4](https://github.com/jiqi963/Multimedia/blob/master/img/video/ScaleOrFlipALayer.png?raw=true)
 
