@@ -24,11 +24,18 @@ You can find the Video [Here](https://youtu.be/pdFCACDtebo)
 
 ## Evidence
 
+GaussianBlur
 ![Evidence 1](https://github.com/jiqi963/Multimedia/blob/master/img/video/GaussianBlur.png?raw=true)
 
+
+logo
 ![Evidence 2](https://github.com/jiqi963/Multimedia/blob/master/img/video/logo.png?raw=true)
 
+
+MotionTileEffect
 ![Evidence 3](https://github.com/jiqi963/Multimedia/blob/master/img/video/MotionTileEffect.png?raw=true)
 
-![Evidence 4](https://github.com/jiqi963/Multimedia/blob/master/img/video/GaussiScaleOrFlipALayeranBlur.png?raw=true)
+
+ScaleOrFlipALayeranBlur
+![Evidence 4](https://github.com/jiqi963/Multimedia/blob/master/img/video/ScaleOrFlipALayeranBlur.png?raw=true)
 
