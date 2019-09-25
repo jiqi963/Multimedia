@@ -2,7 +2,7 @@
 layout: post
 title: Video project
 bigimg: /img/ui.png
-image: /jiqi963.github.io/multimedia/img/multimedia.jpg
+image: /Multimedia/img/video.png
 ---
 
 
