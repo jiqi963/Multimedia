@@ -19,17 +19,16 @@ url: "https://jiqi963.github.io/Multimedia/"
 title: Multimedia portfolio
 
 # Short description of your site
-description: This site is a Portfolio for Multimedia
+description: This site is a Portfolio for Multimedia, I use Jekyll and github page to build this site,
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Manifesto for Agile: "http://agilemanifesto.org/"
   UI Design: "https://jiqi963.github.io/Multimedia/2019-08-30-UI-Design/"
   Video: "https://jiqi963.github.io/Multimedia/2019-09-20-Video-Project/"
   Animation: ""
-  Final Project: ""
+  Final Assignment: ""
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
