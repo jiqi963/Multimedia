@@ -162,7 +162,7 @@ timezone: "Pacific/Auckland"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 1
+paginate: 0
 
 kramdown:
   input: GFM
