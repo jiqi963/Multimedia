@@ -5,4 +5,4 @@ bigimg: /img/animate2.png
 image: /Multimedia/img/animate.png
 ---
 
-Animate
+Animation will show on time

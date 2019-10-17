@@ -27,8 +27,8 @@ description: This site is a Portfolio for Multimedia, I use Jekyll and github pa
 navbar-links:
   UI Design: "https://jiqi963.github.io/Multimedia/2019-08-30-UI-Design/"
   Video: "https://jiqi963.github.io/Multimedia/2019-09-20-Video-Project/"
-  Animation: ""
-  Final Assignment: ""
+  Animation: "https://jiqi963.github.io/Multimedia/2019-10-15-Animation-Project/"
+  Final Assignment: "https://jiqi963.github.io/Multimedia/2019-11-15-Final-Project/"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
