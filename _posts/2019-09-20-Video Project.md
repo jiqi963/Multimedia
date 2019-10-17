@@ -5,6 +5,10 @@ bigimg: /img/video1.png
 image: /Multimedia/img/video.png
 ---
 
+# Topic
+
+I working a noisy monitor for Polykids that is an IoT project for my project paper(IN700), by the way, I think introducing this monitor should be interesting.
+
 ## Important Link
 
 All answer of the question can find in [Here](https://github.com/jiqi963/Multimedia/blob/master/doc/ExplanationVideoProject.pdf)
@@ -13,7 +17,7 @@ Outline and the shotlist can find in [Here](https://github.com/jiqi963/Multimedi
 
 You can find the Video [Here](https://youtu.be/pdFCACDtebo)
 
-## Explain
+### Explain
 
 - Which tools/applications you used and why?
 
@@ -67,9 +71,33 @@ Keep the picture color as consistent as possible
 Explain the basic knowledge of electronic components
 Make a title animation
 
-#### Topic
+#### Establishing Shots
 
-I working a noisy monitor for Polykids that is an IoT project for my project paper(IN700), by the way, I think introducing this monitor should be interesting.
+* Project room
+* Classroom (Next Rob’s office)
+* Darkroom
+* Somewhere
+
+#### Transition
+
+Maybe use some function in After Effects to make it.
+
+####  Logline
+
+* I going to introduce the noise monitor that design for Polykids
+
+* Scene Project room 60 seconds
+I will collection all stuff that the noise monitor need
+I will design the printable case in there
+
+* Scene Darkroom 30 seconds
+I will solder the circuit in there
+
+* Scene Classroom 30 seconds
+I will 3D print the case in there
+
+* Scene somewhere 60 seconds
+I will introduce the noise monitor in somewhere
 
 ### Storyboard
 
