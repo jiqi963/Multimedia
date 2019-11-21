@@ -5,7 +5,7 @@ image: /Multimedia/img/stock.jpg
 ---
 # The final project
 
-[Final project](https://github.com/jiqi963/Multimedia/blob/master/final/game/Hero.html)
+[Final project](https://jiqi963.github.io/final/game/Hero.html)
 
 ##	Which tools/applications you used and why
 
