@@ -3,6 +3,9 @@ layout: post
 title: Final project
 image: /Multimedia/img/stock.jpg
 ---
+# The final project
+
+[Final project](/final/game/hero.html)
 
 ##	Which tools/applications you used and why
 
