@@ -2,7 +2,7 @@
 layout: post
 title: Final project
 image: /img/stock.jpg
-bigimg: /img/knigts.png
+bigimg: /img/knignts.png
 ---
 # The final project
 
