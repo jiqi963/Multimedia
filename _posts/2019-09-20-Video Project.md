@@ -2,7 +2,7 @@
 layout: post
 title: Video project
 bigimg: /img/video1.png
-image: /Multimedia/img/video.png
+image: /img/video.png
 ---
 
 # Topic
