@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Final project
-image: /Multimedia/img/stock.jpg
+image: /img/stock.jpg
+bigimg: /img/knigts.png
 ---
 # The final project
 
